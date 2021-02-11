@@ -30,6 +30,7 @@ public class JavaApplication4 {
         students[3] = "Kamal";
         students[4] = "Susan";
         students[5] = "Nancy";*/
+         System.out.println("Hello");
        Scanner input= new Scanner (System.in);
         for (int i = 0; i < students.length; i++) {
                 
