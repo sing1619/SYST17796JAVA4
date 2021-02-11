@@ -31,6 +31,8 @@ public class JavaApplication4 {
         students[4] = "Susan";
         students[5] = "Nancy";*/
          System.out.println("Hello");
+         System.out.println("Changes made from local");
+
        Scanner input= new Scanner (System.in);
         for (int i = 0; i < students.length; i++) {
                 
